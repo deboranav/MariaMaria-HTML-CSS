@@ -1,0 +1,92 @@
+#cabecalho {
+	height: 50;
+	background-color:  #CA5310 ;
+	padding-left: 36%;
+	
+}
+#cabecalho2 {
+	height: 200;
+	background-color: #ECE0D4  ;
+	padding-left: 33.5%;
+}
+#menu {
+	height: 50;
+	background-color: #F49CBB ;
+	padding-left: 25%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+}
+#promo{
+	padding-top: 15px;
+	padding-left: 15px;
+
+}
+
+#rodape {
+	background-color: #ECE0D4;
+	height: 60px;
+	padding-left: 40%;
+	padding-top: 28px;
+}
+#produtos {
+	background-color: #E7D8C9;
+	padding-left: 5%;
+}
+#formulario {
+	background-color: #ECE0D4;
+	margin:15px;
+}
+form {
+	color: #CA5310;
+}
+.conteudo1 {
+	margin: 15px;
+	margin-left: 0px;
+	padding: 10px;
+	height: 460px;
+	float: left;
+	background-color: #F49CBB;
+}
+.clear {
+	clear: both;
+}
+.conteudo {
+	height: 350px;
+	width: 250px;
+	background-color: #CA5310;
+	padding: 10px;
+	margin: 15px;
+	float: left;
+}
+h1 {
+	margin-top: 15px;
+	color: #CA5310;
+	background-color: #F49CBB;
+	padding-top: 10px;
+}
+p {
+	color: #CA5310;
+}
+h3 {
+	color: #CA5310 ;
+	background-color:#F49CBB ; 
+	padding: 10px;
+	padding-left: 10%;
+	font: Arial, Helvetica, sans-serif;
+}
+body {
+	background-color: #E7D8C9;
+	font: 16px Arial, Helvetica, sans-serif;
+
+}
+
+h4 {
+	color: #CA5310;
+}
+a {
+	color: #CA5310;
+	text-decoration: none;
+	padding: 15px;
+	font: 18px Arial, Helvetica, sans-serif;
+}
