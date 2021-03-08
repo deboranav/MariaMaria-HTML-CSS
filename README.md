@@ -3,6 +3,7 @@ Now, I am learning web development, precisely: HTML 5 and CSS 3. This is a proje
 PS.:
 * The colors were chosen by my friend.
 
-## This is how the home page look like:
+## This is how the home page looks like:
+
 
 <img scr="imagens/home.jpg">
