@@ -5,4 +5,4 @@ PS.:
 
 ## This is how the home page look like:
 
-<img scr="imagens\home.jpg">
+<img scr="imagens/home.jpg">
