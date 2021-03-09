@@ -6,4 +6,4 @@ PS.:
 ## This is how the home page looks like:
 
 
-<img scr="imagens/home.jpg">
+<img scr="imagens/home.jpeg">
